@@ -1,6 +1,11 @@
 One
 Two 
+<<<<<<< HEAD
 ready?
 Go!
+=======
+go
+THIS IS CORRECT
+>>>>>>> e4a67bbcd3fc81a852e43deebd8f074d9cefae3e
 
 
